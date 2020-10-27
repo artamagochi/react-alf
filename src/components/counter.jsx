@@ -44,7 +44,7 @@ class Counter extends Component {
     console.log("Increment Clicked");
   }
   handleHove() {
-    console.log("Hoot hoot");
+    console.log("Hoot hoot 2");
   }
 
   renderTags() {
